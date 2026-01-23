@@ -1,0 +1,14 @@
+# .gitignore
+
+# 依赖包 (非常大，绝对不能上传)
+node_modules
+.DS_Store
+dist
+dist-ssr
+
+# VitePress 构建产物
+.vitepress/dist
+.vitepress/cache
+
+# 你的密钥或敏感文件 (如果有的话)
+.env
