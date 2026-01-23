@@ -17,18 +17,24 @@
 专为盯盘场景设计的 UI 交互。
 
 ### 🔔 沉浸式通知
+
 不同消息适配对应提示音效，支持自定义 MP3 提示音与后台播放。
+
 ## 📸 监控实拍 (界面预览)
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <a href="https://weibo.tech-melon.top/" target="_blank" style="align-self: center; display: block; width: 100%; max-width: 600px;">
-    <img src="/demo_weibo.png" alt="微博监控界面">
+    <img src="/demo_home.png" alt="主界面">
   </a>
-  <p align="center"><i>图 1：微博监控流 - 支持多媒体预览与 AI 标签分类</i></p>
+  <p align="center"><i>图 1：主界面展示</i></p>
   <a href="https://weibo.tech-melon.top/" target="_blank" style="align-self: center; display: block; width: 100%; max-width: 600px;">
-    <img src="/demo_gzh.png" alt="公众号监控界面">
+    <img src="/demo_weibo.png" alt="微博监控卡片">
   </a>
-  <p align="center"><i>图 2：公众号原生卡片效果 - 实时抓取最新文章</i></p>
+  <p align="center"><i>图 2：微博监控流 - 支持多媒体预览与 AI 标签分类</i></p>
+  <a href="https://weibo.tech-melon.top/" target="_blank" style="align-self: center; display: block; width: 100%; max-width: 600px;">
+    <img src="/demo_gzh.png" alt="公众号监控卡片">
+  </a>
+  <p align="center"><i>图 3：公众号原生卡片效果 - 实时抓取最新文章</i></p>
 </div>
 
 ## 💰 如何订阅？
@@ -41,7 +47,6 @@
 **收款地址**：`0x40f69c8bf6657271f40a15b08001d3a06797ec64`  
 _请在填写申请表前完成转账，并在表单中附上您的**转账哈希**以便核实。_  
 :::
-
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="https://forms.gle/6qiXApmBEC1dax8Z7" target="_blank" style="display: inline-block; padding: 12px 30px; background: #2d8a00; color: white; border-radius: 12px; text-decoration: none; font-weight: bold; font-size: 1.1em; transition: transform 0.2s;">

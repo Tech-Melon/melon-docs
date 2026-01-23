@@ -16,7 +16,6 @@
 
 ![登录界面演示](/demo_login.gif)
 
-![主界面](/demo_home.png)
 ---
 
 ## 🆘 常见问题 (FAQ)
