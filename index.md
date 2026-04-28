@@ -5,8 +5,8 @@ layout: home
 # 首页大标题信息 (Hero Section)
 hero:
   name: '技术瓜实时监控 Pro'
-  text: '微博、公众号监控雷达'
-  tagline: 'AI 驱动 · 秒级响应 · 监控主流新闻媒体'
+  text: '全域社交媒体情报雷达'
+  tagline: 'AI 驱动 · 秒级响应 · 跨越海内外社媒鸿沟'
 
   # 这里引用你放在 public 目录下的 logo.png
   image:
@@ -28,20 +28,20 @@ hero:
 # 这里对应我们刚才总结的四大亮点
 features:
   - icon: ⚡️
-    title: 极速响应
-    details: 采用 WS 长连接技术，微博/公众号发文后 **秒级触达**，让你总是快人一步。
+    title: 极速聚合响应
+    details: 采用 WS 长连接技术，**秒级**捕获微博、微信、抖音、Instagram 与 TikTok 最新情报。
 
   - icon: 🧠
-    title: AI 智能大脑
-    details: 内置大语言模型，自动识别“宏大叙事”、“硬核科技”、“Meme奇观”等 10+ 种高价值标签，自动折叠 80% 的生活水帖。
+    title: AI 智能过滤与翻译
+    details: 自动拦截 80% 的生活噪音，并集成 DeepSeek 异步翻译引擎，消除海外信息外语门槛。
 
-  - icon: 📱
-    title: 极致阅读体验
-    details: 专用的视觉卡片，支持**灵动岛导航**与**深色模式**，手机/电脑完美适配。
+  - icon: 🖥️
+    title: 双模自适应工作流
+    details: 首创快讯聚合模块“四象限交互”，大小屏智能流转，打造沉浸式彭博终端体验。
 
   - icon: 🔔
-    title: 沉浸式通知
-    details: 央视新闻专属“新闻联播”音效，支持自定义 MP3 提示音与后台播放，即使网页挂在后台也不错过任何重要情报。
+    title: 沉浸式声场通知
+    details: 根据信息类别自动匹配独立提示音效，支持自定义配置，挂后台也不错过核心异动。
 ---
 
 <style>
