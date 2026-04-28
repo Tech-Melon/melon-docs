@@ -24,15 +24,15 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <a href="https://weibo.tech-melon.top/" target="_blank" style="align-self: center; display: block; width: 100%; max-width: 600px;">
-    <img src="/demo_home.png" alt="主界面">
+    <img src="/demo_home.png?v=1.1" alt="主界面">
   </a>
   <p align="center"><i>图 1：主界面展示</i></p>
   <a href="https://weibo.tech-melon.top/" target="_blank" style="align-self: center; display: block; width: 100%; max-width: 600px;">
-    <img src="/demo_weibo.png" alt="微博监控卡片">
+    <img src="/demo_weibo.png?v=1.1" alt="微博监控卡片">
   </a>
   <p align="center"><i>图 2：微博监控流 - 支持多媒体预览与 AI 标签分类</i></p>
   <a href="https://weibo.tech-melon.top/" target="_blank" style="align-self: center; display: block; width: 100%; max-width: 600px;">
-    <img src="/demo_gzh.png" alt="公众号监控卡片">
+    <img src="/demo_gzh.png?v=1.1" alt="公众号监控卡片">
   </a>
   <p align="center"><i>图 3：公众号原生卡片效果 - 实时抓取最新文章</i></p>
 </div>

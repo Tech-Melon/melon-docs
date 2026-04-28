@@ -6,7 +6,7 @@
 
 ## 效果预览
 
-![分屏盯盘效果图](/demo_layout.jpg)
+![分屏盯盘效果图](/demo_layout.jpg?v=1.1)
 
 <p align="center" style="color: #999; font-size: 0.9em;">左侧：推特/K线工具 | 右侧：技术瓜实时监控 (Sidebar 模式)</p>
 

@@ -10,7 +10,7 @@ hero:
 
   # 这里引用你放在 public 目录下的 logo.png
   image:
-    src: /logo.png
+    src: /logo.png?v=1.1
     alt: Tech Melon Logo
 
   actions:
