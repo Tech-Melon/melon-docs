@@ -2,7 +2,7 @@
 
 快讯模块是系统的「高频情报侧栏 / 入流卡片」集合，覆盖律动、币安、链上与 **X狙** 等信源。宽屏下默认出现在右侧面板；窄屏或开启「大屏快讯入流」后会进入中间主信息流。
 
-![快讯面板（宽屏）](/screenshots/2026-07/07-newsflash-panel.png)
+![快讯面板（宽屏）](/screenshots/2026-07/07-newsflash-panel.webp)
 
 <p align="center"><i>图：宽屏右侧快讯栏 · 律动 / Flap 等实时滚动</i></p>
 
@@ -45,7 +45,7 @@
 
 X狙（`xbot_snipe`）用于监控指定推特账号的发推、转发、回复等行为，前端用结构化卡片展示，而不是一整坨纯文本。
 
-![X狙 结构化卡片](/screenshots/2026-07/11-xbot-snipe-cards.png)
+![X狙 结构化卡片](/screenshots/2026-07/11-xbot-snipe-cards.webp)
 
 <p align="center"><i>图：X狙 搜索结果 · 作者 / 动作 / 正文 / 译文</i></p>
 

@@ -16,19 +16,19 @@
 
 → 完整说明见 [聚合搜索](/guide/search)
 
-![聚合搜索](/screenshots/2026-07/02-toolbox-search.png)
+![聚合搜索](/screenshots/2026-07/02-toolbox-search.webp)
 
 ### 2. 🌟 赛道监测
 
 按 AI 叙事赛道多选筛选信息流，例如 AI 智能体、网红与政客、现实病毒热梗等。选好后点 **确认我的赛道选择**。
 
-![赛道监测](/screenshots/2026-07/03-toolbox-track.png)
+![赛道监测](/screenshots/2026-07/03-toolbox-track.webp)
 
 ### 3. 🛡️ 官方防伪
 
 一键跳转 Binance、OKX、Bybit、BlockBeats、OpenAI 等官方核验入口，降低钓鱼风险。
 
-![官方防伪](/screenshots/2026-07/04-toolbox-verify.png)
+![官方防伪](/screenshots/2026-07/04-toolbox-verify.webp)
 
 ### 4. 🚫 内容拦截
 
@@ -36,7 +36,7 @@
 
 → 完整说明见 [内容拦截器](/guide/blocker)
 
-![内容拦截](/screenshots/2026-07/05-toolbox-blocker.png)
+![内容拦截](/screenshots/2026-07/05-toolbox-blocker.webp)
 
 ---
 

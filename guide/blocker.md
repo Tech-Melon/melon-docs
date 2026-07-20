@@ -4,7 +4,7 @@
 
 打开方式： [超级工具箱](/guide/toolbox) → **🚫 内容拦截**。
 
-![内容拦截面板](/screenshots/2026-07/05-toolbox-blocker.png)
+![内容拦截面板](/screenshots/2026-07/05-toolbox-blocker.webp)
 
 ---
 

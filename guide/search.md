@@ -4,7 +4,7 @@
 
 打开方式： [超级工具箱](/guide/toolbox) → **🔍 聚合搜索**。
 
-![搜索面板](/screenshots/2026-07/02-toolbox-search.png)
+![搜索面板](/screenshots/2026-07/02-toolbox-search.webp)
 
 ---
 
@@ -39,11 +39,11 @@
 - 关键词用推文里的词、中文译文，或 `@handle`
 - 也可用「定向账号」填 handle / 昵称片段
 
-![搜索结果示例](/screenshots/2026-07/10-search-results.png)
+![搜索结果示例](/screenshots/2026-07/10-search-results.webp)
 
 <p align="center"><i>图：关键词「比特币」的聚合结果横幅与列表</i></p>
 
-![X狙 搜索](/screenshots/2026-07/11-xbot-snipe-cards.png)
+![X狙 搜索](/screenshots/2026-07/11-xbot-snipe-cards.webp)
 
 <p align="center"><i>图：按 X狙 相关账号检索到的结构化卡片</i></p>
 

@@ -2,7 +2,7 @@
 
 信息流里每一张卡片都用 **颜色、图标、摘要** 帮你快速判断优先级。
 
-![带 AI 标签的微博卡片](/screenshots/2026-07/09-ai-card-weibo.png)
+![带 AI 标签的微博卡片](/screenshots/2026-07/09-ai-card-weibo.webp)
 
 ---
 
@@ -18,7 +18,7 @@
 | 🔴 YouTube 红 | YouTube | 视频 / 频道帖子 |
 | 🔴 左边框高亮红 | 任意平台 | **高分预警**（AI 分数很高） |
 
-![YouTube 卡片示例](/screenshots/2026-07/12-youtube-cards.png)
+![YouTube 卡片示例](/screenshots/2026-07/12-youtube-cards.webp)
 
 ---
 
@@ -36,7 +36,7 @@
 
 详见 [快讯与情报源](/guide/newsflash)。
 
-![X狙 卡片](/screenshots/2026-07/11-xbot-snipe-cards.png)
+![X狙 卡片](/screenshots/2026-07/11-xbot-snipe-cards.webp)
 
 ---
 

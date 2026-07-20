@@ -4,7 +4,7 @@
 
 打开方式：页面右上角 **⚙️**。
 
-![设置面板：音频与信源](/screenshots/2026-07/06-settings-audio-sources.png)
+![设置面板：音频与信源](/screenshots/2026-07/06-settings-audio-sources.webp)
 
 ---
 

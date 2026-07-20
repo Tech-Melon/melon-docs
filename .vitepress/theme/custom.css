@@ -1,0 +1,24 @@
+/* 文档图片：自适应 + 圆角阴影（懒加载由 theme enhance 注入 loading=lazy） */
+.vp-doc img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dark .vp-doc img {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* 避免超宽截图把内容区撑爆 */
+.vp-doc p > img,
+.vp-doc figure > img {
+  display: block;
+  margin-inline: auto;
+}
+
+/* 首页 logo 本身不需要过重阴影 */
+.VPHomeHero .VPImage {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}

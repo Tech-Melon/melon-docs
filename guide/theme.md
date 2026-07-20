@@ -2,7 +2,7 @@
 
 长时间盯盘或夜间使用时，建议开启 **深色模式** 保护视力。
 
-![深色主界面](/screenshots/2026-07/08-home-dark.png)
+![深色主界面](/screenshots/2026-07/08-home-dark.webp)
 
 ## 如何切换
 

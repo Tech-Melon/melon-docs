@@ -2,7 +2,7 @@
 
 **技术瓜** 的核心之一是「做减法」：用 AI 折叠低价值动态，让你盯盘时只看可能有用的情报。
 
-![AI 标签卡片](/screenshots/2026-07/09-ai-card-weibo.png)
+![AI 标签卡片](/screenshots/2026-07/09-ai-card-weibo.webp)
 
 ---
 
@@ -61,7 +61,7 @@
 工具箱 **🌟 赛道监测** 可按叙事赛道收窄信息流（如 AI 智能体、网红与政客）。  
 这与 AI 开/关是叠加关系：先赛道，再垃圾判定。
 
-![赛道监测](/screenshots/2026-07/03-toolbox-track.png)
+![赛道监测](/screenshots/2026-07/03-toolbox-track.webp)
 
 ---
 

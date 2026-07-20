@@ -34,4 +34,5 @@
 
 ## 截图资产
 
-本站 `public/screenshots/2026-07/` 为宽屏最大化实拍（约 2548×1272），用于 intro / 工具箱 / 快讯 / 搜索等页面。
+本站 `public/screenshots/2026-07/` 为宽屏实拍后的 **WebP** 资源（最长边约 1440px，体积较原 PNG 约降 90%）。  
+新增截图后请运行：`npm run images:optimize`，并把 Markdown 路径指向 `.webp`。
